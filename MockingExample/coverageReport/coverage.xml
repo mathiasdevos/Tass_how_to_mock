@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Summary numSequencePoints="68" visitedSequencePoints="29" numBranchPoints="23" visitedBranchPoints="13" sequenceCoverage="42.65" branchCoverage="56.52" maxCyclomaticComplexity="3" minCyclomaticComplexity="1" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="B5-EF-91-87-52-88-4E-B0-F8-8C-F4-4C-97-10-C8-D0-C0-7E-55-19">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F9-04-A8-31-CD-FB-23-72-95-63-5D-14-9A-A0-66-8E-7F-44-93-7A">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sorttbls.nlp</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="10-79-DB-87-49-AA-B1-8A-64-0F-C8-21-96-FA-E3-BF-86-C3-FD-A2">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\nunit.exe</FullName>
+      <ModuleName>nunit</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="93-D5-FC-BB-56-28-D1-61-4B-20-31-17-19-6F-9A-F4-D1-56-C1-3A">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit-gui-runner.dll</FullName>
+      <ModuleName>nunit-gui-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="74-74-F6-87-59-E1-5F-4F-5F-5E-6E-82-50-E8-E2-46-D4-86-15-76">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="77-AA-56-73-3F-8A-2D-06-18-9A-BF-ED-21-C9-0B-15-D3-C4-8D-FE">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit.uikit.dll</FullName>
+      <ModuleName>nunit.uikit</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="AB-73-46-F7-3D-B9-46-2A-00-E1-56-60-AC-6E-9E-6B-4A-73-6B-62">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Windows.Forms\2.0.0.0__b77a5c561934e089\System.Windows.Forms.dll</FullName>
+      <ModuleName>System.Windows.Forms</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D3-99-70-9D-4C-FD-70-CC-82-00-AA-75-7A-54-8C-25-AC-54-B1-BF">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DC-45-99-8B-71-0C-EC-53-99-23-5C-FE-83-E3-E7-9C-24-B8-DB-CD">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Drawing\2.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll</FullName>
+      <ModuleName>System.Drawing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2C-99-EE-29-D5-25-03-C4-0E-40-26-9B-F7-DF-C2-68-6E-74-74-31">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="C4-AD-0A-97-FF-1D-61-5F-88-89-A6-25-BD-02-5E-E5-F5-1D-6F-20">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="6E-30-2E-50-36-FB-60-2C-8E-50-C0-83-54-8B-CC-EA-A8-91-B6-CC">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sortkey.nlp</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="92-44-10-37-4C-84-2D-65-E3-A0-6A-B9-9F-01-42-6A-27-41-4A-8C">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Runtime.Remoting\2.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="88-A5-91-0C-B8-6B-A6-B4-7C-ED-78-09-E2-D3-55-E1-8E-D5-09-E5">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Accessibility\2.0.0.0__b03f5f7f11d50a3a\Accessibility.dll</FullName>
+      <ModuleName>Accessibility</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="0B-B7-1A-39-77-8C-5F-37-18-B9-4D-70-F5-46-46-E7-53-AA-AA-50">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit.uiexception.dll</FullName>
+      <ModuleName>nunit.uiexception</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="12-65-6A-66-2E-D6-63-35-62-65-A9-F9-3A-99-F3-2E-1A-A3-76-A4">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="87-52-C5-B2-2F-D3-F5-4F-58-BF-89-4A-88-59-6D-CE-F4-7F-6A-3B">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\nunit-agent.exe</FullName>
+      <ModuleName>nunit-agent</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="74-74-F6-87-59-E1-5F-4F-5F-5E-6E-82-50-E8-E2-46-D4-86-15-76">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-46-4B-BE-28-40-30-A2-E6-52-58-36-C3-F3-E3-75-03-AF-F4-FC">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="46-6F-13-2F-D2-4B-1D-25-49-36-00-F3-12-2D-74-40-A6-DA-E7-C0">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-6E-E8-4F-40-6A-75-31-1B-08-C2-22-D5-EA-FE-23-3B-7B-82-15">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2E-28-A3-E7-4F-05-75-91-3B-B4-A6-B7-58-E7-27-B0-EF-F7-52-11">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="94-5A-34-31-A6-D6-12-05-CC-FE-83-07-42-48-4E-4D-B8-38-A6-C1">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9F-62-A2-66-54-66-BC-CE-FD-0D-1B-20-6E-F7-50-CC-76-C2-6F-D4">
+      <FullName>C:\Windows\assembly\GAC_32\System.Web\2.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-46-4B-BE-28-40-30-A2-E6-52-58-36-C3-F3-E3-75-03-AF-F4-FC">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="B6-96-0F-77-90-5D-5D-2F-9A-F2-9F-C4-E5-75-AD-9C-ED-57-F3-17">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\pnunit.framework.dll</FullName>
+      <ModuleName>pnunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="BF-1D-D7-35-9F-DE-AD-6C-C5-85-0E-59-71-C4-80-76-13-06-73-54">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\pnunit-agent.exe</FullName>
+      <ModuleName>pnunit-agent</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>C:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="29-E3-E9-D9-AC-B0-F0-53-04-A3-E1-D8-E0-8E-62-CA-E6-F4-53-8B">
+      <FullName>C:\Users\Administrator\AppData\Local\Temp\nunit20\ShadowCopyCache\6080_635203865813221646\Tests_25210120\assembly\dl3\518f1987\f0922eb6_6ce4ce01\Tests.dll</FullName>
+      <ModuleName>Tests</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="42-83-FE-A6-9F-01-8E-2C-E8-41-E9-25-3E-1E-0D-99-81-76-6B-C9">
+      <FullName>C:\Users\Administrator\AppData\Local\Temp\nunit20\ShadowCopyCache\6080_635203865813221646\Tests_25210120\assembly\dl3\c20f690d\f1302c63_5de4ce01\nunit.framework.dll</FullName>
+      <ModuleName>nunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="46-6F-13-2F-D2-4B-1D-25-49-36-00-F3-12-2D-74-40-A6-DA-E7-C0">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-6E-E8-4F-40-6A-75-31-1B-08-C2-22-D5-EA-FE-23-3B-7B-82-15">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2E-28-A3-E7-4F-05-75-91-3B-B4-A6-B7-58-E7-27-B0-EF-F7-52-11">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="22-C4-BA-0F-75-44-7E-AF-6B-10-3B-E5-E0-FE-B2-D8-BD-BD-A5-C4">
+      <Summary numSequencePoints="68" visitedSequencePoints="29" numBranchPoints="23" visitedBranchPoints="13" sequenceCoverage="42.65" branchCoverage="56.52" maxCyclomaticComplexity="3" minCyclomaticComplexity="1" />
+      <FullName>C:\Users\Administrator\AppData\Local\Temp\nunit20\ShadowCopyCache\6080_635203865813221646\Tests_25210120\assembly\dl3\ea4ce283\7188a05c_69e4ce01\MockingExample.exe</FullName>
+      <ModuleName>MockingExample</ModuleName>
+      <Files>
+        <File uid="1" fullPath="c:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\MockingExample\Adapters\VersionAdapter.cs" />
+        <File uid="2" fullPath="c:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\MockingExample\CompareVersions.cs" />
+        <File uid="3" fullPath="c:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\MockingExample\Exceptions\FileToShortException.cs" />
+        <File uid="4" fullPath="c:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\MockingExample\Exceptions\LocalVersionNewerException.cs" />
+        <File uid="5" fullPath="c:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\MockingExample\ParseReader.cs" />
+        <File uid="6" fullPath="c:\Users\Administrator\Documents\Tass_how_to_mock\MockingExample\MockingExample\Program.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="7" visitedSequencePoints="4" numBranchPoints="2" visitedBranchPoints="1" sequenceCoverage="57.14" branchCoverage="50" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>MockingExample.Adapters.VersionAdapter</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void MockingExample.Adapters.VersionAdapter::.ctor(System.Version)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="5" uspid="1" ordinal="0" offset="0" sl="10" sc="9" el="10" ec="47" />
+                <SequencePoint vc="5" uspid="2" ordinal="1" offset="7" sl="11" sc="9" el="11" ec="10" />
+                <SequencePoint vc="5" uspid="3" ordinal="2" offset="8" sl="12" sc="13" el="12" ec="36" />
+                <SequencePoint vc="5" uspid="4" ordinal="3" offset="15" sl="13" sc="9" el="13" ec="10" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="5" uspid="1" ordinal="0" offset="0" sl="10" sc="9" el="10" ec="47" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Int32 MockingExample.Adapters.VersionAdapter::CompareTo(MockingExample.Interfaces.IVersion)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="5" ordinal="0" offset="0" sl="16" sc="9" el="16" ec="10" />
+                <SequencePoint vc="0" uspid="6" ordinal="1" offset="1" sl="17" sc="13" el="17" ec="52" />
+                <SequencePoint vc="0" uspid="7" ordinal="2" offset="16" sl="18" sc="9" el="18" ec="10" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="5" ordinal="0" offset="0" sl="16" sc="9" el="16" ec="10" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="9" visitedSequencePoints="9" numBranchPoints="5" visitedBranchPoints="5" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="3" minCyclomaticComplexity="1" />
+          <FullName>MockingExample.CompareVersions</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Boolean MockingExample.CompareVersions::get_IsNewerVersionAvailable()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="3" uspid="8" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void MockingExample.CompareVersions::set_IsNewerVersionAvailable(System.Boolean)</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="3" uspid="9" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="3" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="9" visitedSequencePoints="9" numBranchPoints="5" visitedBranchPoints="5" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" />
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void MockingExample.CompareVersions::Compare(MockingExample.Interfaces.IVersion,MockingExample.Interfaces.IVersion)</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="5" uspid="10" ordinal="0" offset="0" sl="11" sc="9" el="11" ec="10" />
+                <SequencePoint vc="5" uspid="11" ordinal="1" offset="1" sl="12" sc="13" el="12" ec="64" />
+                <SequencePoint vc="5" uspid="12" ordinal="2" offset="9" sl="14" sc="13" el="14" ec="27" />
+                <SequencePoint vc="1" uspid="13" ordinal="3" offset="20" sl="15" sc="17" el="15" ec="48" />
+                <SequencePoint vc="4" uspid="14" ordinal="4" offset="30" sl="16" sc="18" el="16" ec="33" />
+                <SequencePoint vc="2" uspid="15" ordinal="5" offset="41" sl="17" sc="17" el="17" ec="49" />
+                <SequencePoint vc="2" uspid="16" ordinal="6" offset="51" sl="19" sc="13" el="19" ec="14" />
+                <SequencePoint vc="2" uspid="17" ordinal="7" offset="52" sl="20" sc="17" el="20" ec="56" />
+                <SequencePoint vc="3" uspid="18" ordinal="8" offset="58" sl="22" sc="9" el="22" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="1" uspid="19" ordinal="0" offset="18" path="0" />
+                <BranchPoint vc="4" uspid="20" ordinal="1" offset="18" path="1" />
+                <BranchPoint vc="2" uspid="21" ordinal="2" offset="39" path="0" />
+                <BranchPoint vc="2" uspid="22" ordinal="3" offset="39" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="5" uspid="10" ordinal="0" offset="0" sl="11" sc="9" el="11" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Void MockingExample.CompareVersions::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="4" uspid="23" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="12" visitedSequencePoints="3" numBranchPoints="4" visitedBranchPoints="1" sequenceCoverage="25" branchCoverage="25" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>MockingExample.Exceptions.FileToShortException</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663304</MetadataToken>
+              <Name>System.Void MockingExample.Exceptions.FileToShortException::.ctor()</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="24" ordinal="0" offset="0" sl="5" sc="9" el="5" ec="47" />
+                <SequencePoint vc="2" uspid="25" ordinal="1" offset="7" sl="5" sc="48" el="5" ec="49" />
+                <SequencePoint vc="2" uspid="26" ordinal="2" offset="8" sl="5" sc="50" el="5" ec="51" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="24" ordinal="0" offset="0" sl="5" sc="9" el="5" ec="47" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663305</MetadataToken>
+              <Name>System.Void MockingExample.Exceptions.FileToShortException::.ctor(System.String)</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="27" ordinal="0" offset="0" sl="6" sc="9" el="6" ec="68" />
+                <SequencePoint vc="0" uspid="28" ordinal="1" offset="8" sl="6" sc="69" el="6" ec="70" />
+                <SequencePoint vc="0" uspid="29" ordinal="2" offset="9" sl="6" sc="71" el="6" ec="72" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="27" ordinal="0" offset="0" sl="6" sc="9" el="6" ec="68" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663306</MetadataToken>
+              <Name>System.Void MockingExample.Exceptions.FileToShortException::.ctor(System.String,System.Exception)</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="30" ordinal="0" offset="0" sl="7" sc="9" el="7" ec="99" />
+                <SequencePoint vc="0" uspid="31" ordinal="1" offset="9" sl="7" sc="100" el="7" ec="101" />
+                <SequencePoint vc="0" uspid="32" ordinal="2" offset="10" sl="7" sc="102" el="7" ec="103" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="30" ordinal="0" offset="0" sl="7" sc="9" el="7" ec="99" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663307</MetadataToken>
+              <Name>System.Void MockingExample.Exceptions.FileToShortException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="33" ordinal="0" offset="0" sl="11" sc="9" el="12" ec="67" />
+                <SequencePoint vc="0" uspid="34" ordinal="1" offset="7" sl="12" sc="68" el="12" ec="69" />
+                <SequencePoint vc="0" uspid="35" ordinal="2" offset="8" sl="12" sc="70" el="12" ec="71" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="33" ordinal="0" offset="0" sl="11" sc="9" el="12" ec="67" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="12" visitedSequencePoints="3" numBranchPoints="4" visitedBranchPoints="1" sequenceCoverage="25" branchCoverage="25" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>MockingExample.Exceptions.LocalVersionNewerException</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663308</MetadataToken>
+              <Name>System.Void MockingExample.Exceptions.LocalVersionNewerException::.ctor()</Name>
+              <FileRef uid="4" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="36" ordinal="0" offset="0" sl="5" sc="9" el="5" ec="53" />
+                <SequencePoint vc="2" uspid="37" ordinal="1" offset="7" sl="5" sc="54" el="5" ec="55" />
+                <SequencePoint vc="2" uspid="38" ordinal="2" offset="8" sl="5" sc="56" el="5" ec="57" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="36" ordinal="0" offset="0" sl="5" sc="9" el="5" ec="53" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663309</MetadataToken>
+              <Name>System.Void MockingExample.Exceptions.LocalVersionNewerException::.ctor(System.String)</Name>
+              <FileRef uid="4" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="39" ordinal="0" offset="0" sl="6" sc="9" el="6" ec="74" />
+                <SequencePoint vc="0" uspid="40" ordinal="1" offset="8" sl="6" sc="75" el="6" ec="76" />
+                <SequencePoint vc="0" uspid="41" ordinal="2" offset="9" sl="6" sc="77" el="6" ec="78" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="39" ordinal="0" offset="0" sl="6" sc="9" el="6" ec="74" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663310</MetadataToken>
+              <Name>System.Void MockingExample.Exceptions.LocalVersionNewerException::.ctor(System.String,System.Exception)</Name>
+              <FileRef uid="4" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="42" ordinal="0" offset="0" sl="7" sc="9" el="7" ec="105" />
+                <SequencePoint vc="0" uspid="43" ordinal="1" offset="9" sl="7" sc="106" el="7" ec="107" />
+                <SequencePoint vc="0" uspid="44" ordinal="2" offset="10" sl="7" sc="108" el="7" ec="109" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="42" ordinal="0" offset="0" sl="7" sc="9" el="7" ec="105" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663311</MetadataToken>
+              <Name>System.Void MockingExample.Exceptions.LocalVersionNewerException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</Name>
+              <FileRef uid="4" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="45" ordinal="0" offset="0" sl="11" sc="9" el="12" ec="67" />
+                <SequencePoint vc="0" uspid="46" ordinal="1" offset="7" sl="12" sc="68" el="12" ec="69" />
+                <SequencePoint vc="0" uspid="47" ordinal="2" offset="8" sl="12" sc="70" el="12" ec="71" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="45" ordinal="0" offset="0" sl="11" sc="9" el="12" ec="67" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="10" visitedSequencePoints="10" numBranchPoints="5" visitedBranchPoints="5" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="3" minCyclomaticComplexity="1" />
+          <FullName>MockingExample.ParseReader</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="3" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="10" visitedSequencePoints="10" numBranchPoints="5" visitedBranchPoints="5" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" />
+              <MetadataToken>100663312</MetadataToken>
+              <Name>System.String MockingExample.ParseReader::Parse(System.IO.TextReader,System.Int32)</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="4" uspid="48" ordinal="0" offset="0" sl="10" sc="9" el="10" ec="10" />
+                <SequencePoint vc="4" uspid="49" ordinal="1" offset="1" sl="11" sc="17" el="11" ec="27" />
+                <SequencePoint vc="6" uspid="50" ordinal="2" offset="5" sl="12" sc="17" el="12" ec="35" />
+                <SequencePoint vc="6" uspid="51" ordinal="3" offset="12" sl="11" sc="49" el="11" ec="52" />
+                <SequencePoint vc="10" uspid="52" ordinal="4" offset="16" sl="11" sc="28" el="11" ec="47" />
+                <SequencePoint vc="4" uspid="53" ordinal="5" offset="24" sl="14" sc="13" el="14" ec="45" />
+                <SequencePoint vc="4" uspid="54" ordinal="6" offset="31" sl="16" sc="13" el="16" ec="30" />
+                <SequencePoint vc="2" uspid="55" ordinal="7" offset="42" sl="17" sc="17" el="17" ec="50" />
+                <SequencePoint vc="2" uspid="56" ordinal="8" offset="48" sl="19" sc="13" el="19" ec="25" />
+                <SequencePoint vc="2" uspid="57" ordinal="9" offset="52" sl="20" sc="9" el="20" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="4" uspid="58" ordinal="0" offset="22" path="0" />
+                <BranchPoint vc="6" uspid="59" ordinal="1" offset="22" path="1" />
+                <BranchPoint vc="2" uspid="60" ordinal="2" offset="40" path="0" />
+                <BranchPoint vc="2" uspid="61" ordinal="3" offset="40" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="4" uspid="48" ordinal="0" offset="0" sl="10" sc="9" el="10" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663313</MetadataToken>
+              <Name>System.Void MockingExample.ParseReader::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="4" uspid="62" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="18" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+          <FullName>MockingExample.Program</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="2" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="18" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" />
+              <MetadataToken>100663314</MetadataToken>
+              <Name>System.Void MockingExample.Program::Main(System.String[])</Name>
+              <FileRef uid="6" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="63" ordinal="0" offset="0" sl="11" sc="9" el="11" ec="10" />
+                <SequencePoint vc="0" uspid="64" ordinal="1" offset="1" sl="12" sc="13" el="12" ec="30" />
+                <SequencePoint vc="0" uspid="65" ordinal="2" offset="7" sl="18" sc="13" el="18" ec="18" />
+                <SequencePoint vc="0" uspid="66" ordinal="3" offset="17" sl="19" sc="13" el="19" ec="14" />
+                <SequencePoint vc="0" uspid="67" ordinal="4" offset="18" sl="20" sc="17" el="20" ec="56" />
+                <SequencePoint vc="0" uspid="68" ordinal="5" offset="25" sl="23" sc="17" el="23" ec="18" />
+                <SequencePoint vc="0" uspid="69" ordinal="6" offset="26" sl="24" sc="21" el="24" ec="67" />
+                <SequencePoint vc="0" uspid="70" ordinal="7" offset="36" sl="25" sc="21" el="25" ec="77" />
+                <SequencePoint vc="0" uspid="71" ordinal="8" offset="52" sl="26" sc="21" el="26" ec="90" />
+                <SequencePoint vc="0" uspid="72" ordinal="9" offset="65" sl="28" sc="21" el="28" ec="66" />
+                <SequencePoint vc="0" uspid="73" ordinal="10" offset="72" sl="29" sc="21" el="29" ec="63" />
+                <SequencePoint vc="0" uspid="74" ordinal="11" offset="83" sl="30" sc="21" el="30" ec="74" />
+                <SequencePoint vc="0" uspid="75" ordinal="12" offset="92" sl="31" sc="17" el="31" ec="18" />
+                <SequencePoint vc="0" uspid="76" ordinal="13" offset="95" sl="32" sc="17" el="32" ec="36" />
+                <SequencePoint vc="0" uspid="77" ordinal="14" offset="97" sl="33" sc="17" el="33" ec="18" />
+                <SequencePoint vc="0" uspid="78" ordinal="15" offset="98" sl="35" sc="17" el="35" ec="18" />
+                <SequencePoint vc="0" uspid="79" ordinal="16" offset="102" sl="36" sc="13" el="36" ec="14" />
+                <SequencePoint vc="0" uspid="80" ordinal="17" offset="126" sl="37" sc="9" el="37" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="81" ordinal="0" offset="114" path="0" />
+                <BranchPoint vc="0" uspid="82" ordinal="1" offset="114" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="63" ordinal="0" offset="0" sl="11" sc="9" el="11" ec="10" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663315</MetadataToken>
+              <Name>System.Void MockingExample.Program::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="83" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D0-C4-31-DF-9B-8D-D3-CC-74-AB-93-8A-6F-C9-61-63-14-F1-4A-B7">
+      <FullName>C:\Users\Administrator\AppData\Local\Temp\nunit20\ShadowCopyCache\6080_635203865813221646\Tests_25210120\assembly\dl3\43305fa0\9d92416e_5de4ce01\Moq.dll</FullName>
+      <ModuleName>Moq</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F0-AC-29-46-F9-CE-FF-96-AE-EE-4F-C0-DE-9E-59-D3-7E-1B-ED-08">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</FullName>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="">
+      <FullName>RefEmit_InMemoryManifestModule</FullName>
+      <ModuleName>Anonymously Hosted DynamicMethods Assembly</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="">
+      <FullName>RefEmit_InMemoryManifestModule</FullName>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="">
+      <FullName>RefEmit_InMemoryManifestModule</FullName>
+      <ModuleName>DynamicProxyGenAssembly2</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="">
+      <FullName />
+      <ModuleName>v8ktywz1</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>
